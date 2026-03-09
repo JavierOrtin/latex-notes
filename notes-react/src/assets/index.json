@@ -1,0 +1,231 @@
+{
+  "subjects": [
+    {
+      "name" : "Sistemas Operativos",
+      "grade" : 3,
+      "semester" : 2,
+      "study" : "software",
+      "notes" : [
+        {
+          "title" : "Ejercicios de shell",
+          "description" : "En proceso...",
+          "pdfPath" : "3Carrera/SO/EjerciciosShell/ejercicios.pdf",
+          "language" : "es",
+          "type" : "exercises"
+        }
+      ]
+    },
+    {
+      "name" : "Algoritmia",
+      "grade" : 2,
+      "semester" : 2,
+      "study" : "software",
+      "notes" : [
+        {
+          "title" : "Memoria práctica 0",
+          "description" : "Ejemplo",
+          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p0/memoria.pdf",
+          "language" : "es",
+          "type" : "memory"
+        },
+        {
+          "title" : "Memoria práctica 1.1",
+          "description" : "Ejemplo",
+          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p11/memoria.pdf",
+          "language" : "es",
+          "type" : "memory"
+        },
+        {
+          "title" : "Memoria práctica 1.2",
+          "description" : "Ejemplo",
+          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p12/memoria.pdf",
+          "language" : "es",
+          "type" : "memory"
+        },
+        {
+          "title" : "Memoria práctica 1.3",
+          "description" : "Ejemplo",
+          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p13/memoria.pdf",
+          "language" : "es",
+          "type" : "memory"
+        }
+      ]
+    },
+    
+    {
+      "name" : "Programación Matemática",
+      "grade" : 3,
+      "semester" : 2,
+      "study" : "math",
+      "notes" : [
+        {
+          "title" : "Ejercicios prácticos de programación lineal",
+          "description" : "Solución gráfica y librería lp",
+          "pdfPath" : "3Carrera/ProgMat/Laboratorio/RepasoControl1/Ejercicios.pdf",
+          "language" : "es",
+          "type" : "exercises"
+        },
+        {
+          "title" : "Ejercicios de repaso previos al primer control",
+          "description" : "Solución gráfica y librería lp",
+          "pdfPath" : "3Carrera/ProgMat/Laboratorio/RepasoControl1/RepasoControl1.pdf",
+          "language" : "es",
+          "type" : "exercises"
+        }
+      ]
+    },
+    {
+      "name": "Análisis Matemático III",
+      "grade": 3,
+      "semester": 1,
+      "study" : "math",
+      "notes": [
+        {
+          "title": "Apuntes de teoría",
+          "description": "Apuntes con los resultados vistos en clase",
+          "pdfPath": "3Carrera/AMat3/apuntes.pdf",
+          "language": "es",
+          "type" : "theory"
+        },
+        {
+          "title": "Ejercicios hechos",
+          "description": "De momento hay pocos...",
+          "pdfPath": "3Carrera/AMat3/Ejercicios/ejercicios.pdf",
+          "language": "es",
+          "type" : "exercises"
+        }
+      ]
+    },
+    {
+      "name":"Arquitectura de Computadores",
+      "grade":3,
+      "semester":1,
+      "study":"software",
+      "notes":[
+        {
+          "title" : "Memoria del trabajo en grupo",
+          "description" : "Ejemplo para nuestro enunciado particular",
+          "pdfPath" : "3Carrera/AC/Teamwork/memoria.pdf",
+          "language" : "es",
+          "type" : "memory"
+        }
+      ]
+    },
+    {
+      "name": "Inferencia Estadística",
+      "grade": 3,
+      "semester": "anual",
+      "study" : "math",
+      "notes": [
+        {
+          "title": "Primer parcial 2022",
+          "description": "No se muestra la solución a las cuestiones teóricas",
+          "pdfPath": "3Carrera/Inferencia/Parcial1-2022/test.pdf",
+          "language": "es",
+          "type" : "exercises"
+        },
+        {
+          "title": "Primer parcial 2023",
+          "description": "Solo se muestra la solución al segundo problema",
+          "pdfPath": "3Carrera/Inferencia/Parcial1-2023/test.pdf",
+          "language": "es",
+          "type" : "exercises"
+        },
+        {
+          "title": "Primer parcial 2024",
+          "description": "Solución de ambos problemas prácticos",
+          "pdfPath": "3Carrera/Inferencia/Parcial1-2024/test.pdf",
+          "language": "es",
+          "type" : "exercises"
+        }
+      ]
+    },
+    {
+      "name": "Bases de Datos",
+      "grade": 2,
+      "semester": 2,
+      "study" : "software",
+      "notes": [
+        {
+          "title": "Consultas SQL",
+          "description": "Ejercicios para practicar el examen teórico de consultas",
+          "pdfPath": "2Carrera/BDatos/Teoria2/PracticaSQL/practica.pdf",
+          "language": "en",
+          "type" : "exercises"
+        },
+        {
+          "title": "Álgebra Relacional",
+          "description": "Ejercicios para practicar el examen teórico de consultas",
+          "pdfPath": "2Carrera/BDatos/Teoria2/PracticaAlg/practica.pdf",
+          "language": "en",
+          "type" : "exercises"
+        }
+      ]
+    },
+    {
+      "name": "Probabilidades y Estadística",
+      "grade": 2,
+      "semester": "anual",
+      "study" : "math",
+      "notes": [
+        {
+          "title": "Pregunta larga del control 2024-2025",
+          "description": "Resolución del ejercicio del último control curso 2024-2025",
+          "pdfPath": "2Carrera/PyE/Ejercicio-Control2/Control2.pdf",
+          "language": "es",
+          "type": "exercises"
+        },
+        {
+          "title": "Control mayo PyE 2024",
+          "description": "Resolución de un ejercicio del examen de convocatoria ordinaria de 2024",
+          "pdfPath": "2Carrera/PyE/Examen24/Examen24.pdf",
+          "language": "es",
+          "type": "exercises"
+        }
+      ]
+    },
+    {
+      "name": "Geometría de Curvas y Superficies",
+      "grade": 2,
+      "semester": 2,
+      "study" : "math",
+      "notes": [
+        {
+          "title": "Proyección central",
+          "description": "Ejercicio analizando las características de la proyección cartográfica central",
+          "pdfPath": "2Carrera/GCS/ProyeccionCentral/ProyeccionCentral.pdf",
+          "language": "es",
+          "type" : "exercises"
+        },
+        {
+          "title": "Primera tutoría grupal",
+          "description": "Resolución de la primera tutoría grupal",
+          "pdfPath": "2Carrera/GCS/TG1/TG1.pdf",
+          "language": "es",
+          "type" : "exercises"
+        },
+        {
+          "title": "Segunda tutoría grupal",
+          "description": "Resolución de la segunda tutoría grupal",
+          "pdfPath": "2Carrera/GCS/TG2/TG2.pdf",
+          "language": "es",
+          "type" : "exercises"
+        },
+        {
+          "title": "Tercera tutoría grupal",
+          "description": "Resolución de la tercera tutoría grupal",
+          "pdfPath": "2Carrera/GCS/TG3/TG3.pdf",
+          "language": "es",
+          "type" : "exercises"
+        },
+        {
+          "title": "Cuarta tutoría grupal",
+          "description": "Resolución de la cuarta tutoría grupal",
+          "pdfPath": "2Carrera/GCS/TG4/TG4.pdf",
+          "language": "es",
+          "type" : "exercises"
+        }
+      ]
+    }
+  ]
+}
