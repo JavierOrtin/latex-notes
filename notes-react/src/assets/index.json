@@ -12,6 +12,13 @@
           "pdfPath" : "3Carrera/SO/EjerciciosShell/ejercicios.pdf",
           "language" : "es",
           "type" : "exercises"
+        },        
+        {
+          "title" : "Ejercicios V1",
+          "description" : "Memoria final",
+          "pdfPath" : "3Carrera/SO/V1/ejerciciosV1.pdf",
+          "language" : "es",
+          "type" : "exercises"
         }
       ]
     },
