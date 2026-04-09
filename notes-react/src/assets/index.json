@@ -50,9 +50,17 @@
           "type" : "memory"
         },
         {
-          "title" : "Memoria práctica 1.3",
+          "title" : "Memoria práctica 2",
           "description" : "Ejemplo",
-          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p13/memoria.pdf",
+          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p2/memoria.pdf",
+          "language" : "es",
+          "type" : "memory"
+        }
+        ,
+        {
+          "title" : "Memoria práctica 3",
+          "description" : "Ejemplo",
+          "pdfPath" : "3Carrera/Algoritmia/Laboratorio/p3/memoria.pdf",
           "language" : "es",
           "type" : "memory"
         }
